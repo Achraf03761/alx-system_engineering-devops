@@ -1,0 +1,2 @@
+#!/bin/bash
+perl -lne &#39;print if $. % 2 ==1&#39;
